@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+    text-transform: uppercase;
+}
+.er {
+    text-align: right;
+    background-color: lightgreen;
+    color: green;
+    text-decoration: underline;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.we {
+    text-align: right;
+    background-color: lightgreen;
+    color: green;
+    text-decoration: underline;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+ul li {
+    text-decoration: line-through;
+    color: white;
+}
